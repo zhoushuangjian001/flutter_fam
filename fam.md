@@ -1,7 +1,7 @@
 
 
 ![icon.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1277c95cd18843a483fafe8c364a694f~tplv-k3u1fbpfcp-watermark.image?)    
-<button style="background-color: #33CCFF;border-style: none;border-radius: 4px;color: white;">Version 1.0.8</button> <button style="background-color: #9900FF;border-style: none;border-radius: 4px;color: white;">START 37</button> <button style="background-color: #6633FF;border-style: none;border-radius: 4px;color: white;">Fork 20</button> <button style="background-color: #00CC99;border-style: none;border-radius: 4px;color: white;">Author: NetWork-Little Bitch</button>      
+
 
 Language: [🇺🇸 English](https://pub.dev/packages/fam) | [🇨🇳 Chinese](https://github.com/zhoushuangjian001/pub_images/blob/master/fam/md/README.md)
 ## 特别提示
