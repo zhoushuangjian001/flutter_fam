@@ -1,7 +1,7 @@
 
 
 ![icon.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1277c95cd18843a483fafe8c364a694f~tplv-k3u1fbpfcp-watermark.image?)    
-![Author](https://github.com/zhoushuangjian001/flutter-fam/blob/master/images/author.png?raw=true) ![Version](https://github.com/zhoushuangjian001/flutter-fam/blob/master/images/version.png?raw=true)![Star](https://github.com/zhoushuangjian001/flutter-fam/blob/master/images/star.png?raw=true)  ![Star](https://github.com/zhoushuangjian001/flutter-fam/blob/master/images/fork.png?raw=true)  
+![Author](https://github.com/zhoushuangjian001/flutter-fam/blob/master/images/author.png?raw=true) ![Version](https://github.com/zhoushuangjian001/flutter-fam/blob/master/images/version.png?raw=true)![Star](https://github.com/zhoushuangjian001/flutter-fam/blob/master/images/star.png?raw=true)  ![Star](https://github.com/zhoushuangjian001/flutter-fam/blob/master/images/fork.png?raw=true)  ![Purpose](https://github.com/zhoushuangjian001/flutter-fam/blob/master/images/purpose.png?raw=true) 
 
 
 Language: [🇺🇸 English](https://pub.dev/packages/fam) | [🇨🇳 Chinese](https://github.com/zhoushuangjian001/pub_images/blob/master/fam/md/README.md)
