@@ -53,7 +53,7 @@ Language: [🇺🇸 English](https://pub.dev/packages/fam) | [🇨🇳 Chinese](
     ![pub-catch.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f774c0cf80364a8a8b5e7ee86136570c~tplv-k3u1fbpfcp-watermark.image?)
 2. Windows 用户
     ![WechatIMG33.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/99e032546a3b45669b14eb1e5b1ab8fb~tplv-k3u1fbpfcp-watermark.image?)
-$\color{#ff0ff0}{📢 注意:}$    
+**注意:**  
 **Windows** 用户由于系统的差异建议使用 `dart pub global activate fam` 指令安装 **fam** 。因为**Window** 系统中当删除 **flutter** 文件使用其他的管理工具时 **pub-cache\bin** 路径也被删除。而 `dart pub global activate fam` 指令生成的 **Pub\Cache\bin** 路径不会被删除。 
 
 按上面提示配置好 **.pub-cache/bin** 路径后，在终端输入执行 `fam help` 或者 `fam -h` 即可检查**Fam** 是否安装成功。 **Fam** 安装成功展示如下:
@@ -162,20 +162,19 @@ $\color{#ff0ff0}{📢 注意:}$
     
 10. `flutter pub global activate fam`
     
-    **Fam** 的安装和升级指令。      
-    1） 安装看 **Fam 的配置**     
-    2） 升级
-        
+    **Fam** 的安装和升级指令。1、 安装看 **Fam 的配置** 2、升级        
     ![fam_update.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8b7feb16618a49ca83ceda3cbd0d63fc~tplv-k3u1fbpfcp-watermark.image?)
 
 ## 五、更新 Fam 1.0.5
-  1. 新指令添加    
-     - **`fam --version`**    
-        获取当前安装的 Fam 的版本。
-     - **`fam --releases`**    
-        获取 Fam 所有可安装的稳定版本。
-     - **`fam --update` & `fam --update x.x.x`**    
-        Fam 升级到最新版本，也可以指定版本升级。
-    
-## 六、总结
-  以上是 **Fam** 的基础介绍。**Fam** 的 **pub.dev** 地址是 [Fam 地址 ](https://pub.dev/packages/fam) 以及**Git** 地址是 [Fam 地址](https://github.com/zhoushuangjian001/fam)。 欢迎各位大佬点赞和喜欢。
+新指令添加    
+- **`fam --version`**    
+获取当前安装的 Fam 的版本。
+- **`fam --releases`**    
+获取 Fam 所有可安装的稳定版本。
+- **`fam --update` & `fam --update x.x.x`**    
+Fam 升级到最新版本，也可以指定版本升级。
+
+## 六、支持最新 3.7.0 的本地引用着色器的功能
+本地着色器的文件类型是 `.frag`
+## 七、总结
+以上是 **Fam** 的基础介绍。**Fam** 的 **pub.dev** 地址是 [Fam 地址 ](https://pub.dev/packages/fam) 以及**Git** 地址是 [Fam 地址](https://github.com/zhoushuangjian001/fam)。 欢迎各位大佬点赞和喜欢。
