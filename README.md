@@ -6,6 +6,9 @@
 
 Language: [🇺🇸 English](https://pub.dev/packages/fam) | [🇨🇳 Chinese](https://github.com/zhoushuangjian001/pub_images/blob/master/fam/md/README.md)
 ## 特别提示
+### 1.1.3
+Fam 的最新更新介绍，请点击这里 [更新内容](https://juejin.cn/post/7243725147110637627) 。 该更新会持续更新到哪里，请关注和使用。
+
 **Fam** 版本的更新方法如下:    
 1. **Fam** 版本小于**1.0.5** 的用户使用 `flutter pub global activate fam` 指令升级。
 2. **Fam** 版本大于等于 **1.0.5** 的用户使用 `fam --update` 或者 `fam --update x.x.x` 或者 `flutter pub global activate fam` 进行更新。
